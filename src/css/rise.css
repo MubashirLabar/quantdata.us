@@ -1,0 +1,53 @@
+.rise-st0{enable-background:new    ;}
+.rise-st1{fill:#7F7F7F;}
+.rise-st2{clip-path:url(#SVGID_2_);enable-background:new    ;}
+.rise-st3{fill:#696969;}
+.rise-st4{clip-path:url(#SVGID_4_);enable-background:new    ;}
+.rise-st5{fill:#797979;}
+.rise-st6{fill:#7D7D7D;} 
+.rise-st7{fill:#818181;}
+.rise-st8{fill:#858585;}
+.rise-st9{fill:#898989;}
+.rise-st10{clip-path:url(#SVGID_6_);enable-background:new    ;}
+.rise-st11{fill:#717171;}
+.rise-st12{fill:#A9A9A9;}
+.rise-st13{clip-path:url(#SVGID_8_);enable-background:new    ;}
+.rise-st14{clip-path:url(#SVGID_10_);enable-background:new    ;}
+.rise-st15{clip-path:url(#SVGID_12_);enable-background:new    ;}
+.rise-st16{clip-path:url(#SVGID_14_);enable-background:new    ;}
+.rise-st17{fill:#868686;}
+.rise-st18{clip-path:url(#SVGID_16_);enable-background:new    ;}
+.rise-st19{fill:#757575;}
+.rise-st20{fill:#737373;}
+.rise-st21{fill:#36A3DC;}
+.rise-st22{fill:#367FDC;}
+.rise-st23{fill-rule:evenodd;clip-rule:evenodd;fill:#367FDC;}
+.rise-st24{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+
+.rise-vt{
+    width: 500px;
+    align-self: center;
+    justify-self: center;
+} 
+.rise-vt:hover #rise {
+    animation-duration: 1.5s;
+    animation-name: riseAnimation;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+} 
+.rise-vt #rise {
+    animation-duration: 1.5s;
+    animation-name: riseAnimation;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+} 
+@keyframes riseAnimation {
+    from {
+        transform: translateZ(0px) translateY(-23px);
+        opacity: 1;
+    }
+    to {
+        transform: translateZ(23px) translateY(23px);
+        opacity: 1;
+    }
+}

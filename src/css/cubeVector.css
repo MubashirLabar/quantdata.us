@@ -1,0 +1,163 @@
+.cube-st0{fill-rule:evenodd;clip-rule:evenodd;fill:#423D4D;}
+.cube-st1{fill-rule:evenodd;clip-rule:evenodd;fill:#17141E;}
+.cube-st2{fill-rule:evenodd;clip-rule:evenodd;fill:#565065;}
+.cube-st3{fill-rule:evenodd;clip-rule:evenodd;fill:#36A3DC;}
+.cube-st4{fill-rule:evenodd;clip-rule:evenodd;fill:#367FDC;}
+.cube-st5{fill-rule:evenodd;clip-rule:evenodd;fill:#3687DC;}
+
+svg {
+    width: 500px;
+    align-self: center;
+    justify-self: center;
+}
+svg:hover #CB {
+  animation: rotate linear 4s infinite;
+  animation-name: rotate;
+  z-index: 1;
+  position: absolute;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+svg #CB {
+    animation: rotate linear 4s infinite;
+    animation-name: rotate;
+    z-index: 1;
+    position: absolute;
+    transform-origin: center;
+    transform-box: fill-box;
+  }
+#CB{
+    opacity: 0;
+}
+
+@keyframes rotate {
+    10% {
+      transform: rotate(45deg);
+      opacity: 0;
+    }
+    50% {
+      transform: rotate(45deg);
+      opacity: 0;
+    }
+    75% {
+      transform: rotate(0);
+      opacity: 1;
+    }
+}
+svg #C1 {
+    animation-duration: 2s;
+    animation-name: animateicon;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+svg #C1 {
+    animation-duration: 2s;
+    animation-name: animateicon;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+svg #C2 {
+    animation-duration: 2s;
+    animation-name: animateicon;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+svg #C3 {
+    animation-duration: 2s;
+    animation-name: animateicon;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+svg #C4 {
+    animation-duration: 2s;
+    animation-name: animateicon;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+svg #C5 {
+    animation-duration: 2s;
+    animation-name: animateicon;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+svg #C6 {
+    animation-duration: 2s;
+    animation-name: animateicon;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+svg #C1 {
+    animation-duration: 2s;
+    animation-name: animateicon;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+svg #C1 {
+    animation-duration: 2s;
+    animation-name: animateicon;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+svg #C2 {
+    animation-duration: 2s;
+    animation-name: animateicon;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+svg #C3 {
+    animation-duration: 2s;
+    animation-name: animateicon;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+svg #C4 {
+    animation-duration: 2s;
+    animation-name: animateicon;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+svg #C5 {
+    animation-duration: 2s;
+    animation-name: animateicon;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+svg #C6 {
+    animation-duration: 2s;
+    animation-name: animateicon;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+
+#C1 {
+    opacity: 0;
+}
+#C2 {
+    opacity: 0;
+}
+#C3 {
+    opacity: 0;
+}
+#C4 {
+    opacity: 0;
+}
+#C5 {
+    opacity: 0;
+}
+#C6 {
+    opacity: 0;
+}
+@keyframes animateicon {
+    from {
+        transform: translateZ(0px) translateY(-23px);
+        opacity: 0;
+    }
+    to {
+        transform: translateZ(0px) translateY(23px);
+        opacity: 1;
+    }
+}
+
+

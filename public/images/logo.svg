@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="297.465" height="80.088" viewBox="0 0 297.465 80.088">
+  <g id="quant_data" data-name="quant data" transform="translate(0.873 0.887)">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(-0.873 -0.887)">
+      <g id="Layer_1" data-name="Layer 1">
+        <path id="Path_3450" data-name="Path 3450" d="M78.167,83.681H62.113V80.854H77.949a12.976,12.976,0,0,0,7.815-21.18l-.04-.046a15.623,15.623,0,0,0-12.429-6.074,15.906,15.906,0,0,0-3.97.506l-1.086.293-.511-1.04A14.94,14.94,0,0,0,54.16,44.873a15.146,15.146,0,0,0-14.7,11.774l-.264,1.2-1.224-.092c-.339,0-.626-.04-.891-.04a11.572,11.572,0,0,0,0,23.145H50.293v2.827H37.077a14.4,14.4,0,1,1-.086-28.8A17.886,17.886,0,0,1,69.715,51.05a18.664,18.664,0,0,1,3.58-.345,18.445,18.445,0,0,1,14.618,7.137,15.755,15.755,0,0,1,3.511,7.47,16.25,16.25,0,0,1,.236,2.724A15.778,15.778,0,0,1,78.272,83.629Z" transform="translate(-9.127 -17.357)" fill="#36a4dd"/>
+        <path id="Path_3451" data-name="Path 3451" d="M89.479,49.8c-.218-.293-.448-.575-.684-.862a20.916,20.916,0,0,0-2.988-3.1,12.98,12.98,0,0,0-2.229-3.758l-.04-.046a15.635,15.635,0,0,0-12.411-6.074,15.859,15.859,0,0,0-3.965.506l-1.149.293-.506-1.04a14.98,14.98,0,0,0-13.515-8.464,15.152,15.152,0,0,0-14.7,11.8l-.264,1.218L35.8,40.18c-.339,0-.621-.034-.891-.034A11.578,11.578,0,0,0,23.354,51.137a16.313,16.313,0,0,0-2.442,3.919,14.141,14.141,0,0,1-.4-3.367A14.417,14.417,0,0,1,34.823,37.3a17.888,17.888,0,0,1,32.723-3.81,18.715,18.715,0,0,1,3.58-.351A18.468,18.468,0,0,1,85.75,40.272a15.744,15.744,0,0,1,3.505,7.47,15.565,15.565,0,0,1,.224,2.057Z" transform="translate(-8.224 -9.883)" fill="#36a4dd"/>
+        <path id="Path_3452" data-name="Path 3452" d="M68.694,118.75H66.441v-9.13H63.333v9.13H61.08a.437.437,0,0,0-.373.655l3.8,6.591a.437.437,0,0,0,.753,0l3.8-6.591a.437.437,0,0,0-.373-.655Z" transform="translate(-25.298 -46.123)" fill="#36a4dd"/>
+        <path id="Path_3453" data-name="Path 3453" d="M87.1,93.105h2.252v9.13h3.109v-9.13h2.252a.437.437,0,0,0,.379-.655l-3.81-6.614a.431.431,0,0,0-.753,0l-3.8,6.614a.437.437,0,0,0,.373.655Z" transform="translate(-36.367 -35.911)" fill="#36a4dd"/>
+        <g id="Group_2088" data-name="Group 2088" transform="translate(0 29.231)">
+          <g id="Group_2087" data-name="Group 2087" opacity="0">
+            <g id="Group_2086" data-name="Group 2086">
+              <ellipse id="Ellipse_25" data-name="Ellipse 25" cx="15.75" cy="15.997" rx="15.75" ry="15.997" transform="translate(0 31.483) rotate(-88.13)" fill="#afafaf"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_2091" data-name="Group 2091" transform="translate(30.262)" opacity="0">
+          <g id="Group_2090" data-name="Group 2090">
+            <g id="Group_2089" data-name="Group 2089">
+              <ellipse id="Ellipse_26" data-name="Ellipse 26" cx="15.75" cy="15.997" rx="15.75" ry="15.997" transform="translate(0 31.483) rotate(-88.13)" fill="#afafaf"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_2094" data-name="Group 2094" transform="translate(59.841 44.981)">
+          <g id="Group_2093" data-name="Group 2093">
+            <g id="Group_2092" data-name="Group 2092" opacity="0">
+              <ellipse id="Ellipse_27" data-name="Ellipse 27" cx="15.75" cy="15.997" rx="15.75" ry="15.997" transform="translate(0 31.483) rotate(-88.13)" fill="#afafaf"/>
+            </g>
+          </g>
+        </g>
+        <text id="Quant_Data-2" data-name="Quant Data" transform="translate(99.464 61.867)" fill="#fff" font-size="39" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Quant </tspan><tspan y="0" fill="#37a3dc">Data</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

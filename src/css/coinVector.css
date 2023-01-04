@@ -1,0 +1,181 @@
+.coin-vt{
+    width: 500px;
+    align-self: center;
+    justify-self: center;
+} 
+.coin-vt:hover #SC3 {
+    animation-duration: 1.5s;
+    animation-name: coinAnimation;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+.coin-vt #SC3 {
+    animation-duration: 1.5s;
+    animation-name: coinAnimation;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+#SC3 {opacity: 1;}
+@keyframes coinAnimation {
+    from {
+        transform: translateZ(0px) translateY(-23px);
+        opacity: 0;
+    }
+    to {
+        transform: translateZ(10px) translateY(23px);
+        opacity: 1;
+    }
+}
+.coin-vt:hover #SCD3 {
+    animation-duration: 1.5s;
+    animation-name: coinAnimation;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+.coin-vt #SCD3 {
+    animation-duration: 1.5s;
+    animation-name: coinAnimation;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+#SCD3 {opacity: 1;}
+@keyframes coinAnimation {
+    from {
+        transform: translateZ(0px) translateY(-23px);
+        opacity: 0;
+    }
+    to {
+        transform: translateZ(0px) translateY(23px);
+        opacity: 1;
+    }
+}
+.coin-vt:hover #SC2 {
+    animation-duration: 1.5s;
+    animation-name: coinAnimation;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+.coin-vt #SC2 {
+    animation-duration: 1.5s;
+    animation-name: coinAnimation;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+#SC2 {opacity: 1;}
+@keyframes coinAnimation {
+    from {
+        transform: translateZ(0px) translateY(-23px);
+        opacity: 0;
+    }
+    to {
+        transform: translateZ(0px) translateY(23px);
+        opacity: 1;
+    }
+}
+.coin-vt:hover #SCD2 {
+    animation-duration: 1.5s;
+    animation-name: coinAnimation;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+.coin-vt #SCD2 {
+    animation-duration: 1.5s;
+    animation-name: coinAnimation;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+#SCD2 {
+    opacity: 1;
+}
+@keyframes coinAnimation{
+    from {
+        transform: translateZ(0px) translateY(-23px);
+        opacity: 0;
+    }
+    to {
+        transform: translateZ(0px) translateY(23px);
+        opacity: 1;
+    }
+}
+.coin-vt:hover #SCD3 {
+    animation-duration: 1.5s;
+    animation-name: coinAnimation;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+.coin-vt #SCD3 {
+    animation-duration: 1.5s;
+    animation-name: coinAnimation;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+.coin-vt:hover #SC1 {
+    animation-duration: 1.5s;
+    animation-name: coinAnimation;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+.coin-vt #SC1 {
+    animation-duration: 1.5s;
+    animation-name: coinAnimation;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+#SC1 {
+    opacity: 1;
+}
+@keyframes coinAnimation {
+    from {
+        transform: translateZ(0px) translateY(-23px);
+        opacity: 0;
+    }
+    to {
+        transform: translateZ(0px) translateY(23px);
+        opacity: 1;
+    }
+}
+.coin-vt:hover #SCD1 {
+    animation-duration: 1.5s;
+    animation-name: coinAnimation;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+.coin-vt #SCD1 {
+    animation-duration: 1.5s;
+    animation-name: coinAnimation;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+#SCD1 {
+    opacity: 1;
+}
+@keyframes coinAnimation {
+    from {
+        transform: translateZ(0px) translateY(-23px);
+        opacity: 0;
+    }
+    to {
+        transform: translateZ(0px) translateY(23px);
+        opacity: 1;
+    } 
+}
+/*svg:hover #Big_Coin {
+    animation-duration: 1.2s;
+    animation-name: coinAnimation;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+#Big_Coin {
+    opacity: 0;
+}
+@keyframes coinAnimation {
+    from {
+        transform: translateZ(0px) translateY(-23px);
+        opacity: 0;
+    }
+    to {
+        transform: translateZ(0px) translateY(23px);
+        opacity: 1;
+    }
+}*/

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="262" height="262" viewBox="0 0 262 262">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1085d1"/>
+      <stop offset="1" stop-color="#0d38ba"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2101" data-name="Group 2101" transform="translate(-829 -604)">
+    <circle id="Ellipse_34" data-name="Ellipse 34" cx="131" cy="131" r="131" transform="translate(829 604)" fill="url(#linear-gradient)"/>
+    <path id="Icon_awesome-user-friends" data-name="Icon awesome-user-friends" d="M34.3,42.261A20.006,20.006,0,1,0,14.29,22.256,20,20,0,0,0,34.3,42.261Zm13.718,5.716H46.531a27.621,27.621,0,0,1-24.471,0H20.577A20.582,20.582,0,0,0,0,68.554V73.7a8.576,8.576,0,0,0,8.574,8.574H60.017A8.576,8.576,0,0,0,68.591,73.7V68.554A20.582,20.582,0,0,0,48.013,47.977Zm37.725-5.716A17.148,17.148,0,1,0,68.591,25.114,17.152,17.152,0,0,0,85.738,42.261Zm8.574,5.716h-.679a22.525,22.525,0,0,1-15.79,0h-.679a19.839,19.839,0,0,0-9.949,2.751,26.14,26.14,0,0,1,7.091,17.826v6.859c0,.393-.089.768-.107,1.143h31.545a8.576,8.576,0,0,0,8.574-8.574A20,20,0,0,0,94.312,47.977Z" transform="translate(903 692.75)" fill="#fff"/>
+  </g>
+</svg>

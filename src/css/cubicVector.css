@@ -1,0 +1,34 @@
+.cubic-st0{fill-rule:evenodd;clip-rule:evenodd;fill:#3687DC;}
+.cubic-st1{fill-rule:evenodd;clip-rule:evenodd;fill:#36A3DC;}
+.cubic-st2{fill-rule:evenodd;clip-rule:evenodd;fill:#CACACA;}
+.cubic-st3{fill-rule:evenodd;clip-rule:evenodd;fill:#E4E4E4;}
+.cubic-st4{fill:#ECECEC;}
+.cubic-st5{fill:#FBFBFB;}
+ 
+.cubic-vt{
+    width: 500px;
+    align-self: center;
+    justify-self: center;
+}
+.cubic-vt:hover #cubic {
+    animation-duration: 1s;
+    animation-name: cubicAnimation;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+.cubic-vt #cubic {
+    animation-duration: 1.2s;
+    animation-name: cubicAnimation;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+@keyframes cubicAnimation {
+    from {
+        transform: translateZ(0px) translateX(-23px);
+        opacity: 1;
+    }
+    to {
+        transform: translateZ(23px) translateX(23px);
+        opacity: 1;
+    }
+}

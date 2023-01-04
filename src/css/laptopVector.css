@@ -1,0 +1,70 @@
+.lap-st0{enable-background:new    ;}
+.lap-st1{clip-path:url(#SVGID_2_);enable-background:new    ;}
+.lap-st2{fill:#2D2A35;}
+.lap-st3{fill:#2E2B37;}
+.lap-st4{fill:#302D39;}
+.lap-st5{fill:#322E3B;}
+.lap-st6{fill:#34303D;}
+.lap-st7{fill:#504A5E;}
+.lap-st8{clip-path:url(#SVGID_4_);enable-background:new    ;}
+.lap-st9{fill:#0C0A10;}
+.lap-st10{fill:#0C0B10;}
+.lap-st11{fill:#0D0B11;}
+.lap-st12{fill:#14121B;}
+.lap-st13{fill:#1D1B24;}
+.lap-st14{fill:#635F6F;}
+.lap-st15{fill:#36A3DC;}
+.lap-st16{opacity:0.1;fill-rule:evenodd;clip-rule:evenodd;fill:#423D4D;}
+.lap-st17{fill:#808080;}
+.lap-st18{fill:#FBFBFB;}
+.lap-st19{fill:#1B526E;}
+.lap-st20{fill:#36A3DB;} 
+
+.latop-vt{
+    width: 500px;
+    align-self: center;
+    justify-self: center;
+}
+
+.latop-vt:hover #lp { 
+    animation-duration: 2s;
+    animation-name: laptopAnimation;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+.latop-vt #lp { 
+    animation-duration: 2s;
+    animation-name: laptopAnimation;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+.latop-vt:hover #wave {
+    animation-duration: 2.4s;
+    animation-name: laptopAnimation;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+.latop-vt #wave {
+    animation-duration: 2.4s;
+    animation-name: laptopAnimation;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+#lp{
+    opacity: 1;
+}
+#wave{
+    opacity: 1;
+}
+@keyframes laptopAnimation {
+    from {
+        transform: translateX(0px) translateY(-23px);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(23px) translateY(23px);
+        opacity: 1;
+    }
+}

@@ -1,0 +1,67 @@
+.news-st0{fill:#232129;}
+.news-st1{fill:#35313E;}
+.news-st2{fill:#1D5776;}
+.news-st3{fill:#2E8ABB;}
+.news-st4{enable-background:new    ;}
+.news-st5{fill:#A3A3A3;}
+.news-st6{fill:#828282;}
+.news-st7{fill:#8A8A8A;}
+.news-st8{fill:#A2A2A2;}
+.news-st9{fill:#F8F8F8;} 
+.news-st10{fill:#868686;}
+.news-st11{fill:#8D8D8D;}
+.news-st12{clip-path:url(#SVGID_2_);enable-background:new    ;}
+.news-st13{fill:#858585;}
+.news-st14{fill:#8F8F8F;}
+.news-st15{fill:#949494;}
+.news-st16{clip-path:url(#SVGID_4_);enable-background:new    ;}
+.news-st17{clip-path:url(#SVGID_6_);enable-background:new    ;}
+.news-st18{clip-path:url(#SVGID_8_);enable-background:new    ;}
+.news-st19{clip-path:url(#SVGID_10_);enable-background:new    ;}
+.news-st20{clip-path:url(#SVGID_12_);enable-background:new    ;}
+.news-st21{clip-path:url(#SVGID_14_);enable-background:new    ;}
+.news-st22{fill:#999999;}
+.news-st23{fill:#F6F6F6;}
+.news-st24{clip-path:url(#SVGID_16_);enable-background:new    ;}
+.news-st25{clip-path:url(#SVGID_18_);enable-background:new    ;}
+.news-st26{clip-path:url(#SVGID_20_);enable-background:new    ;}
+.news-st27{clip-path:url(#SVGID_22_);enable-background:new    ;}
+.news-st28{clip-path:url(#SVGID_24_);enable-background:new    ;}
+.news-st29{clip-path:url(#SVGID_26_);enable-background:new    ;}
+.news-st30{clip-path:url(#SVGID_28_);enable-background:new    ;}
+.news-st31{clip-path:url(#SVGID_30_);enable-background:new    ;}
+.news-st32{clip-path:url(#SVGID_32_);enable-background:new    ;}
+.news-st33{clip-path:url(#SVGID_34_);enable-background:new    ;}
+.news-st34{clip-path:url(#SVGID_36_);enable-background:new    ;}
+.news-st35{clip-path:url(#SVGID_38_);enable-background:new    ;}
+
+svg {
+    width: 500px;
+    align-self: center;
+    justify-self: center;
+}
+svg:hover #news {
+    animation-duration: 1.8s;
+    animation-name: newsAnimation;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+svg #news {
+    animation-duration: 1.8s;
+    animation-name: newsAnimation;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+#news {
+    opacity: 1;
+}
+@keyframes newsAnimation {
+    from {
+        transform: translateZ(0px) translateY(-23px);
+        opacity: 0;
+    }
+    to {
+        transform: translateZ(23px) translateY(23px);
+        opacity: 1;
+    }
+}

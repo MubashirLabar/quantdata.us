@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="262" height="262" viewBox="0 0 262 262">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1085d1"/>
+      <stop offset="1" stop-color="#0d38ba"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2100" data-name="Group 2100" transform="translate(-279 -604)">
+    <circle id="Ellipse_33" data-name="Ellipse 33" cx="131" cy="131" r="131" transform="translate(279 604)" fill="url(#linear-gradient)"/>
+    <path id="Icon_simple-minutemailer" data-name="Icon simple-minutemailer" d="M26.678,4.055l16.542,17.9L31.549,44.963l24.645-4.416,11.22,27.071L115.073,5.124Zm-3.049,38.78,4.589-3.773L22.3,40.931l-.6-.863,2.445-2.373-3.208,1.295A32.659,32.659,0,0,0,10.227,93.207,32.427,32.427,0,0,1,5.984,77.121,33.474,33.474,0,0,1,26.673,46.339l1.51-3.673-3.6,1.587-1.012-1.366Zm20.924-9.446,7.662-13.526L97.275,9.31,44.552,33.389Z" transform="translate(352 695.945)" fill="#f6f6f6"/>
+  </g>
+</svg>

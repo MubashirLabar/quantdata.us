@@ -1,0 +1,35 @@
+.cir-st0{fill:#CACACA;}
+.cir-st1{fill:#36A3DC;}
+.cir-st2{fill-rule:evenodd;clip-rule:evenodd;fill:#A3A3A3;}
+.cir-st3{fill:#367FDC;}
+.cir-st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+.cir-st5{fill:#FFFFFF;}
+
+.circle-vt{ 
+    width: 500px; 
+    align-self: center;
+    justify-self: center;
+}
+.circle-vt:hover #circle{
+    animation: rotate linear 3.5s infinite;
+    animation-name: rotate;
+    z-index: 1;
+    position: absolute;
+    transform-origin: center;
+    transform-box: fill-box;
+}
+.circle-vt #circle{
+  animation: rotate linear 3.5s infinite;
+  animation-name: rotate;
+  z-index: 1;
+  position: absolute;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+  
+@keyframes rotate {
+      100% {
+        transform: rotate(360deg);
+        opacity: 1;
+      }
+}
